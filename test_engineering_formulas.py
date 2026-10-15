@@ -1,6 +1,6 @@
 """Unit tests for Programming Assignment #4 engineering calculations.
 
-Programmer: [Your name]
+Programmer: Michael Friesen
 Course: ENSC 201, Fall 2026
 Version: 1.0
 Date: 2026-10-13
